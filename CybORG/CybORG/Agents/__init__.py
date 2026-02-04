@@ -10,3 +10,4 @@ from .SimpleAgents.TestAgent import TestAgent
 from .SimpleAgents.HeuristicRed import HeuristicRed
 from .SimpleAgents.DebuggingAgent import DebuggingAgent
 from .SimpleAgents.BlueMonitorAgent import BlueMonitorAgent
+from .SimpleAgents.HeuristicBlue import HeuristicBlue
